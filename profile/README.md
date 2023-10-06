@@ -1,6 +1,6 @@
 # Robomanipal Coding Taskphase 2023 🤖 
 
-![Welcome](../assets/banner.jpg)
+![Welcome](https://i.imgur.com/qYNZG2o.jpg)
 
 ## 📚 Resources
 
