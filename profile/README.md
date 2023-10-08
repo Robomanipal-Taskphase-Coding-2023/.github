@@ -10,32 +10,32 @@ A list of resources to help you get started with the taskphase 🚀.
 
 The taskphase aims to give you all round exposure to a bunch of technologies and tools 🔧 that is used in the industry.
 
-- [ ] *Week 1* 
+- [ ] **Week 1** 
     - Introduction to C and C++
-- [ ] *Week 2*
+- [ ] **Week 2**
     - Introduction to Python
-- [ ] *Week 3*
+- [ ] **Week 3**
     - Artificial Intelligence and Machine Learning
     - Basic AI and ML algorithms (Linear Regression, Logistic Regression, CNN)
-- [ ] *Week 4*
+- [ ] **Week 4**
     - Decision trees and clustering algorithms(using sklearn)
-- [ ] *Week 5*
+- [ ] **Week 5**
     - OpenCV and Image Processing
-- [ ] Week 6
+- [ ] *Week 6*
     - Dual booting and Linux commands
     - Introduction to ROS2
     - Introduction to Git and Github
     - Basic ROS2 commands
-- [ ] *Week 7*
+- [ ] **Week 7**
     - Introduction to TurtleSim
     - Introduction to Gazebo
-- [ ] *Week 8*
+- [ ] **Week 8**
     - Microprocessors and Microcontrollers
     - Introduction to Arduino and Communication Protocols
-- [ ] *Week 9*
+- [ ] **Week 9**
     - Screening and Taskphase Evaluation
     - Working with sensors
-- [ ] *Week 10*
+- [ ] **Week 10**
     - Creating a Holonomic Drive
     - Remote control of the bot
 
