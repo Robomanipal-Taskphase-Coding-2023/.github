@@ -14,6 +14,7 @@ The taskphase aims to give you all round exposure to a bunch of technologies and
     - Introduction to C and C++
 - [ ] **Week 2**
     - Introduction to Python
+    - Introduction to Git and Github
 - [ ] **Week 3**
     - Artificial Intelligence and Machine Learning
     - Basic AI and ML algorithms (Linear Regression, Logistic Regression, CNN)
@@ -21,21 +22,24 @@ The taskphase aims to give you all round exposure to a bunch of technologies and
     - Decision trees and clustering algorithms(using sklearn)
 - [ ] **Week 5**
     - OpenCV and Image Processing
-- [ ] *Week 6*
+    - Object tracking 1
+- [ ] **Week 6**
+    - Object tracking 2
+    - Line following
+- [ ] **Week 7**
     - Dual booting and Linux commands
     - Introduction to ROS2
-    - Introduction to Git and Github
     - Basic ROS2 commands
-- [ ] **Week 7**
+- [ ] **Week 8**
     - Introduction to TurtleSim
     - Introduction to Gazebo
-- [ ] **Week 8**
+- [ ] **Week 9**
     - Microprocessors and Microcontrollers
     - Introduction to Arduino and Communication Protocols
-- [ ] **Week 9**
+- [ ] **Week 10**
     - Screening and Taskphase Evaluation
     - Working with sensors
-- [ ] **Week 10**
+- [ ] **Week 11**
     - Creating a Holonomic Drive
     - Remote control of the bot
 
